@@ -1,26 +1,6 @@
 Die Welt **Malekar** ist von einem azurblau schimmernden Asteroidengürtel umgeben. Die Bewohner des Kontinents Sarlona, auf dem unserer Kampagne spielen wird, erzählen sich die [[Legende der Schöpfung]], für dessen Entstehung.
 
-```leaflet  
-id: map1 
-image: Sarlona Karte.png
-height: 500px  
-width: 500px  
-lat: 50  
-long: 50  
-### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-minZoom: 0  
-### Max zoom is 18.  
-maxZoom: 18  
-### Hover mouse over the Reset Zoom icon to see your current zoom level.  
-defaultZoom: 15  
-### How far it zooms in or out with each step. Can be in decimals.  
-zoomDelta: 0.5  
-### This is a string so can be any text. Change it to match your maps measurement scale.  
-unit: feet  
-scale: 1  
-darkMode: false  
-```
-
+![[Sarlona Karte.png]]
 
 Sarlona besteht aus 6 großen Regionen:
 
@@ -54,7 +34,7 @@ Vor ca. 50 Jahren war der gesamte Kontinent von einem gigantischen Asteroidensch
 	- Austrocknung eines Gebiets
 	- Entstehung neuer Wälder in ungewöhnlichen Farben
 	- Vulkan
-	- Unnatürliche Entstehung von Oase
+	- Unnatürliche Entstehung von Oasen
 - In gewissen Gebieten kommt es zu ungewöhnlichen Änderungen des Klimas, zum Beispiel:
 	- Starke Stürme
 	- Starke Regenfälle
