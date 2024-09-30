@@ -1,0 +1,6 @@
+- **Tiefer Canyon:** Ein gewaltiger, zerklüfteter Canyon mit schroffen Felswänden, labyrinthartigen Schluchten und verborgenen Pfaden.
+- **Gesetzlose Stadt:** Die chaotische Stadt **Neu-Luthar**, tief im Canyon verborgen, Zuflucht für Ausgestoßene, Flüchtlinge und Kriminelle; regiert von Söldnern und mächtigen Händlern.
+- **Ausgrabungsstätten:** Überall im Canyon gibt es alte Ruinen und Ausgrabungsstätten, die Relikte und Artefakte einer vergessenen Zivilisation bergen.
+- **Drachenscherben-Fahrzeuge:** Tüftler und Mechaniker, bauen improvisiert, mit Drachenscherben betriebene Fahrzeuge, die die Schluchten zugänglich machen.
+- **Gefahren:** Felsstürze, schroffe Geländesprünge und brutale Auseinandersetzungen zwischen den gesetzlosen Gruppen der Stadt machen den Canyon extrem gefährlich.
+- **Bevölkerung von Neu-Luthar:** Alle Spezien sind vertreten; insbesonders überdurchschnittlich viele Feuer- und Erd-Genasi sowie viele Tieflinge, die aus anderen Gegenden verstoßen wurden. Weiterhin viele Flüchtlinge aus Luthar der ehemaligen Hauptstadt von Darun'Fal.

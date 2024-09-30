@@ -1,0 +1,6 @@
+- **Dichter Dschungel:** Üppige Vegetation mit riesigen Bäumen, dichten Blättern und verwobenen Lianen, tropisches Klima.
+- **Alte Ruinen:** Verfallene Tempel und Pyramiden einer längst vergessenen Zivilisation, tief im Dschungel verborgen.
+- **Indigene Völker:** Echsenmenschen und Drachengeborene, die in Stämmen leben und altes Wissen über die Region bewahren.
+- **Exotische Flora und Fauna:** Seltene Pflanzen mit heilenden oder giftigen Eigenschaften, sowie gefährliche, einzigartige Tiere wie Rieseninsekten und Raubtiere.
+- **Gefahren:** Tödliche Pflanzen, versteckte Fallen in den Ruinen, wilde Bestien und aggressive Stämme, die ihr Territorium verteidigen.
+- **Größte Stadt:** Syon

@@ -1,0 +1,4 @@
+- **Verfluchtes Land:** Einst grüne Täler und Wälder, nun ein unbewohnbares, karges, graues und verfluchtes Ödland, Vegetation ist abgestorben
+- **Auswirkungen:** Bevölkerung ist größtenteils aus der Region geflohen
+- **Gerüchte:** Untote und Geister sollen die Ruinen der Städte und Dörfer durchstreifen
+- **Ehemalige Hauptstadt:** Luthar
