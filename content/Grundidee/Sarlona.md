@@ -1,4 +1,4 @@
-Die Welt **Malekar** ist von einem azurblau schimmernden Asteroidengürtel umgeben. Die Bewohner des Kontinents Sarlona, auf dem unserer Kampagne spielen wird, erzählen sich die [[Legende der Schöpfung]], für dessen Entstehung.
+Die Welt **Malekar** ist von einem azurblau schimmernden Asteroidengürtel umgeben. Die Bewohner des Kontinents **Sarlona**, auf dem unserer Kampagne spielen wird, erzählen sich die [[Legende der Schöpfung]], für dessen Entstehung.
 
 ![[Sarlona Karte.png]]
 
