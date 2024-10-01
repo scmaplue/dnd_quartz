@@ -1,6 +1,6 @@
 
-- **Menschen**, **Zwerge**, **Halblinge**, **Gnome**, [[Halbelfen]] trifft man in den meisten Regionen an und machen in der Regel auch den Großteil der Bevölkerung aus.
-- **Gnome** sind erfindungsreiche Tüftler; viele Gnome mussten kürzlich aus ihrer Heimat [[Darun'Fal]] fliehen
+- **Menschen**, **Zwerge**, **Halblinge** [[Halbelfen]] trifft man in den meisten Regionen an und machen in der Regel auch den Großteil der Bevölkerung aus.
+- **Gnome** sind erfindungsreiche Tüftler; viele Gnome mussten kürzlich aus ihrer Heimat [[Darun'Fal]] fliehen.
 - **Orks** trifft man eher selten in den größeren Metropolen an und leben oft als Nomaden in der [[Talendar Steppe]], Daqha Wüste in [[Valenar]] oder [[Q'Barra]]
 - **Goliaths** trifft man ebenfalls eher selten an. Sie leben häufig in kleinen Gemeinschaften in Bergregionen und der [[Talendar Steppe]]. Goliaths sind wegen ihrer starken Physis beliebte Arbeitskräfte in [[Hrusar]] und auf Luftschiffen. Goliaths machen auch einen kleinen Bevölkerungsteil von [[Syon]] aus.
 - **Elfen** trifft man in den meisten Regionen eher selten an. Viele Hochelfen leben in [[Talanisar]] als Magier und Gelehrte. Aufgrund ihrer hohen Lebenszeit trifft man junge Elfen eher selten an. Viele Waldelfen leben (teilweise in druidischen Zirkeln) in den Wälder von [[Eldeen]] und haben sich dem Schutz der Natur verschrieben.
