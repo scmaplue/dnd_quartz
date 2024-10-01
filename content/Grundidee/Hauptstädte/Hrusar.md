@@ -20,13 +20,13 @@
 - Die Stadt wird von einem Oligarchenrat regiert, der aus den reichsten Händlern, den angesehensten Magiern und den einflussreichsten Adligen besteht.
 - Jeder Gipfel hat seinen eigenen „Meister“, der die Angelegenheiten seines Teils der Stadt lenkt.
 - Diese Meister treffen sich regelmäßig im einem neutralen Ratssaal an der Spitze des höchsten Gipfel.
-- Von Hrusar aus wird die umgebene Region namens **Eldeen** verwaltet.
+- Von Hrusar aus wird die umgebene Region namens [[Eldeen]] verwaltet.
 
 ## Bevölkerung:
 
 - 40% Menschen (die verschiedenste Rollen einnehmen: Händler, Fabrikarbeiter, Adelige)
 - 10% Zwerge (besonders in der unteren Ebene als Ingenieure und Schmiede tätig)
-- 10% Halbelfen (oft als Diplomaten und Händler)
+- 10% [[Halbelfen]] (oft als Diplomaten und Händler)
 - 10% Halblinge (Händler und Schreiber)
 - 10% Gnome (berühmte Erfinder, die die magische Technologie der Stadt antreiben)
-- Rest: alle anderen (Goliaths, Tieflinge, Aasimar, Drachengeborene, Genasi, Elfen, Orks, Halborks)
+- Rest: alle anderen (Goliaths, Tieflinge, Aasimar, Drachengeborene, [[Genasi]], Elfen, Orks)

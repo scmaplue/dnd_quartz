@@ -1,6 +1,6 @@
 # Talanisar - Die Schwebende Weiße Stadt
 
-- Eine majestätische Stadt, die über einer kristallklaren Oase inmitten der **Daqha-Wüste** schwebt.
+- Eine majestätische Stadt, die über einer kristallklaren Oase inmitten der **Daqha-Wüste** in [[Valenar]] schwebt.
 - Sie wird durch magische Kräfte in der Luft gehalten.
 - Die Stadt wurde einst von mächtigen Erzmagiern erschaffen.
 - Die Stadt selbst besteht aus schwebenden Plattformen und prächtigen Bauten aus weißem Sandstein, geschmückt mit goldenen Akzenten. Schwebende Brücken verbinden die einzelnen Stadtteile.
@@ -13,13 +13,12 @@
 
 ## Bevölkerung
 
-- 70%: Menschen und Halbelfen (gleich aufgeteilt)
-- 10%: Genasi (vor allem Wasser- und Luftgenasi, welche die Elementarkräfte der Stadt und der Oase bewahren)
-- 10%: Elfen (Hochelfen)
-- Rest: andere 
+- 70%: Menschen und [[Halbelfen]] (gleich aufgeteilt)
+- 20%: Elfen (hauptsächlich Hochelfen)
+- Rest: andere
 
 ## Besonderheiten:
 
-- Talanisar ist durch fliegende Luftschiffe erreichbar.
+- Talanisar ist fast ausschließlich nur durch fliegende Luftschiffe erreichbar.
 - Der zentrale Turm, bekannt als der **Turm des Unendlichen Wissens**, ist die höchste Struktur in Talanisar.
-- Der Turm ist von einer Universität umgeben, an der die talentiertesten Magier studierende und forschen.
+- Der Turm ist von einer Universität umgeben, an der die talentiertesten Magier und Künstler studieren und forschen.

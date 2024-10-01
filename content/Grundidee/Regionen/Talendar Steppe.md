@@ -1,4 +1,4 @@
 - **Weite Steppe:** Endlose Grasebenen mit sanften Hügeln und offenem, weitem Himmel, mildes Klima
-- **Barbarenstämme:** Nomadische Stämme (unter anderem Orks, Halborks, Goliaths), die in ständigen Kämpfen um Territorium und Ehre leben.
+- **Barbarenstämme:** Nomadische Stämme (unter anderem Orks, Goliaths), die in ständigen Kämpfen um Territorium und Ehre leben.
 - **Ressourcen:** Handelsgilden aus Eldeen versuchen in die Region vorzustoßen auf der Suche nach Drachenscherben, dies führt zu Konflikten mit den indigenen Stämmen.
 - **Flüchtlinge:** Flüchtlinge aus Darun'Fal haben kleine Dörfer in den Ebenen gegründet.
