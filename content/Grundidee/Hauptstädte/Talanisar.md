@@ -1,5 +1,7 @@
 # Talanisar - Die Schwebende Weiße Stadt
 
+## Beschreibung:
+
 - Eine majestätische Stadt, die über einer kristallklaren Oase inmitten der **Daqha-Wüste** in [[Valenar]] schwebt.
 - Sie wird durch magische Kräfte in der Luft gehalten.
 - Die Stadt wurde einst von mächtigen Erzmagiern erschaffen.
