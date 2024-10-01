@@ -3,4 +3,4 @@
 - **Terrassenlandwirtschaft:** In die Berghänge eingebaute Terrassenfelder für den Anbau von Nutzpflanzen.
 - **Neblige Täler:** Ständig feuchte, mystische Atmosphäre mit dichter Nebeldecke.
 - **Angepasste Bewohner:** Widerstandsfähige Gemeinschaft, die im Einklang mit der rauen Natur lebt und ihre Umgebung bewirtschaftet.
-- **Hauptstadt:** Hrusar
+- **Hauptstadt:** [[Hrusar]]

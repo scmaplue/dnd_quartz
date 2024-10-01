@@ -3,4 +3,4 @@
 - **Indigene Völker:** Echsenmenschen und Drachengeborene, die in Stämmen leben und altes Wissen über die Region bewahren.
 - **Exotische Flora und Fauna:** Seltene Pflanzen mit heilenden oder giftigen Eigenschaften, sowie gefährliche, einzigartige Tiere wie Rieseninsekten und Raubtiere.
 - **Gefahren:** Tödliche Pflanzen, versteckte Fallen in den Ruinen, wilde Bestien und aggressive Stämme, die ihr Territorium verteidigen.
-- **Größte Stadt:** Syon
+- **Größte Stadt:** [[Syon]]

@@ -2,3 +2,4 @@
 - **Große Oase:** Einzige Quelle des Lebens in der Wüste, mit frischem Wasser und üppiger Vegetation, dient als wichtiger Rastplatz für Reisende; über ihr schwebt die Hauptstadt Talanisar.
 - **Hafenstadt im Norden:** Nordlich von Talanisar gibt es eine kleine, geschäftige Stadt am Meer, die als Handelsposten und Versorgungsquelle für Wüstenreisende dient.
 - **Gefahren:** Heftige Sandstürme, extreme Hitze und gefährliche Kreaturen in der Daqha Wüste
+- **Hauptstadt:** [[Talanisar]]
