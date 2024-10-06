@@ -1,0 +1,8 @@
+- Kampagne wird bei einer Zugfahrt starten
+- Die Zugfahrt findet in einer Weinregion (dem Nebelfrosttal) statt
+- Die Zugfahrt wird im Ort **Traubenweiler** enden und die ersten paar Sitzungen werden voraussichtlich in diesem Ort und dessen Umgebung spielen.
+- Während der Zugfahrt werden eure Charaktere die Gelegenheit haben sich kennenzulernen
+- das erste Ziel eurer Charaktere sollte [[Hrusar]] sein
+	- Hrusar ist eine große Metropole und wird euren Charakteren viele Interaktionsmöglichkeiten geben
+	- Ihr könnt euch für eure Charaktere Dinge überlegen, die ihr in Hrusar erledigen wollt. Das gibt mir auch Ideen, um die Stadt weiter auszubauen.
+	- Ich werde euch aber auch zusätzliche Gründe geben nach Hrusar weiterzureisen.

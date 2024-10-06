@@ -1,0 +1,1 @@
+Bei der Charaktererstellung sollt ihr nach PHB einen Hintergrund ("Background") wählen. Den Beschreibungstext beim Hintergrund müsst und solltet ihr nicht wortwörtlich in eure Hintergrundgeschichte übernehmen. Stattdessen würde ich empfehlen, dass ihr erst eure Hintergrungeschichte entwerft und anschließend guckt zu welchem Hintergrund im PHB sie am besten passt.

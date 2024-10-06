@@ -1,0 +1,10 @@
+
+- **Menschen**, **Zwerge**, **Halblinge** [[Halbelfen]] trifft man in den meisten Regionen an und machen in der Regel auch den Großteil der Bevölkerung aus.
+- **Gnome** sind erfindungsreiche Tüftler; viele Gnome mussten kürzlich aus ihrer Heimat [[Darun'Fal]] fliehen.
+- **Orks** trifft man eher selten in den größeren Metropolen an und leben oft als Nomaden in der [[Talendar Steppe]], Daqha Wüste in [[Valenar]] oder [[Q'Barra]]
+- **Goliaths** trifft man ebenfalls eher selten an. Sie leben häufig in kleinen Gemeinschaften in Bergregionen und der [[Talendar Steppe]]. Goliaths sind wegen ihrer starken Physis beliebte Arbeitskräfte in [[Hrusar]] und auf Luftschiffen. Goliaths machen auch einen kleinen Bevölkerungsteil von [[Syon]] aus.
+- **Elfen** trifft man in den meisten Regionen eher selten an. Viele Hochelfen leben in [[Talanisar]] als Magier und Gelehrte. Aufgrund ihrer hohen Lebenszeit trifft man junge Elfen eher selten an. Viele Waldelfen leben (teilweise in druidischen Zirkeln) in den Wälder von [[Eldeen]] und haben sich dem Schutz der Natur verschrieben.
+- Kleine Zahlen von **Drachengeborenen** sind in allen größeren Städten vertreten. Sie zählen als weise und gebildet, da sie häufig Bibliotheken in den größeren Städten arbeiten. Die größte Bibliothek befindet sich in [[Syon]], wo Drachengeborene auch den Großteil der Bevölkerung ausmachen.
+- **Aasimar**, **Tieflinge**, **[[Genasi]]** sind erst in jüngster Zeit als eigenständige Spezien entstanden. Ihre Geburt wird unter anderen Humanoiden oft als Fluch (vor allem Tieflinge) oder Segen (vor allem Aasimar) angesehen. Viele entschieden sich aufgrund von Diskriminierung ihre Heimat zu verlassen und in die gesetzlose Stadt Neu-Luthar in der [[Knochenschlucht]] zu fliehen. Genasi zieht es oft in Gegenden, die ihrer elementaren Herkunft entsprechen. So begeben sich Feuer-Genasi in trockene Gegenden, Wasser-Genasi an Seen und ans Meer, Luft-Genasi hohe Gegenden wie Gebirge oder auch Luftschiffe, und Erd-Genasi in tiefe Wälder oder Gebirge.
+
+

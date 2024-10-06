@@ -1,0 +1,9 @@
+#### Hausregeln
+1. Grad des Bestehens/Nichtbestehens bei Attributswürfen (Eine Schwierigkeitsstufe eines Attributswurfes stark zu übertreffen oder zu übertreffen kann nach Ermessen des DMs besondere Auswirkungen auf die Situation haben.)
+2. Heiltränke können als Aktion  verwendet werden. In diesem Fall erhaltet ihr volle Lebenspunkte. Werden Heiltränke als Bonusaktion verwendet so wird gewürfelt.
+3. Schild ausrüsten zu Beginn des Kampfes ist einmalig eine freie Aktion
+4. **Heroische Inspiration:** Heroische Inspiration kann nach dem Würfelwurf verwendet werden, muss aber verwendet, bevor das Resultat vom DM geschildert wurde.
+5. **Komfortable Rast:** Eine **Komfortable Rast** ist eine Rast in einer Taverne oder an einem anderen "vernünftigen Schlafort. Nach einer komfortablen Rast werden 2 statt 1 Erschöpfungspunkte wiederhergestellt. (Als Vergleich eine nicht komfortable Rast findet dagegen in der Wildnis oder in einem Dungeon statt. Dann würdet ihr nur einen Erschöpfungspunkt wiederherstellen.) Das spielte bis jetzt noch keine Rolle, da wir noch in keine Situation gekommen sind, in der ich Erschöpfungspunkte verteilt habe.
+6. **Hilfe bei Attributswürfen:** Ihr könnt nur dann bei einem Attributswurf "helfen", wenn ihr erklärt, wie ihr helft. Beispiel: Der Magier betreibt Recherche in einer Bibliothek (Attributwurf auf Nachforschung). Der Barbar "hilft", indem er von Bücherregal zu Bücherregal rennt, um dem Magier Bücher zu bringen. (Der Magier erhält aufgrund der Hilfe des Barbars Vorteil.)
+7. Max Crit Damage = "Max würfelergebnis + würfelergebnis" statt "würfelergebnis + würfelergebnis"
+8. Jeder zweite Diagonalschritt auf dem Grid entspricht zwei Bewegungspunkte (d.h. 3m)

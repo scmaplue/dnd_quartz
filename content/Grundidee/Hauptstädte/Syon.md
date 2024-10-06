@@ -17,7 +17,7 @@
 - 10% Goliaths
 - 10% Orks
 - 20% Menschen, [[Halbelfen]], Halblinge, Zwerge
-- Rest: alle anderen (Gnome, Tieflinge, Aasimar, [[Genasi]], Elfen, indigene Spezien des Dschungels)
+- Rest: alle anderen (Gnome, Tieflinge, Aasimar, [[Genasi]], Elfen, indigene Spezies des Dschungels)
 
 ## Besonderheiten:
 

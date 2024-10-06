@@ -4,7 +4,7 @@
 
 - Hrusar ist eine eindrucksvolle Metropole, die sich auf drei riesigen Bergspitzen erstreckt, umgeben von tiefen Wäldern und Mooren.
 - Entlang der Spitzen wurden Plattformen auf massiven Stahlkonstruktionen errichtet.
-- Die Spitzen und Plattformen sind durch massive Brücken und magisch betriebenen Seilbahnen miteinander verbunden, sodass sich ein gewaltiges Netzwerk zwischen den Ebenen und Vierteln erstreckt.
+- Die Spitzen und Plattformen sind durch massive Brücken und magisch betriebene Seilbahnen miteinander verbunden, sodass sich ein gewaltiges Netzwerk zwischen den Ebenen und Vierteln erstreckt.
 - Die Architektur der Stadt ist steinern und monumental, mit Fabriken, die von magischen Maschinen und Golems betrieben werden, um den industriellen Kern der Stadt zu stärken.
 - Die Stadt wächst in die Höhe und besteht aus mehreren Schichten – die soziale Ordnung spiegelt sich in den Höhen der jeweiligen Ebenen wider.
 
