@@ -54,8 +54,8 @@ Gibt es vielleicht irgendwelche kleineren kurzfristigen Ziele, die ihr vorher er
 
 Das sind NPCs, die möglicherweise mit euch in der Kampagne interagieren und von mir gespielt werden könnten.
 
-- 2-3 Personen/Personengruppen (Ihr müsst keine Namen vergeben, könnt ihr aber)
-- Jeweils 2-3 Stichpunkte pro Person
+- 3-5 Personen/Personengruppen (Ihr müsst keine Namen vergeben, könnt ihr aber)
+- Jeweils 2-3 Stichpunkte pro Person/Personengruppe
 
 - Wie ist eure Beziehung zueinander?
 - Wie hat die Person euch geprägt?
@@ -69,6 +69,13 @@ Zum Beispiel:
 
 Habt eine optische Beschreibung parat. Das kann meinetwegen auch sehr detailliert sein. Das ist besonders wichtig für die erste Sitzung, wo die anderen Spieler euren Charakter kennenlernen. Da könnt ihr dann auch beschreiben, was euer Charakter von der Verhaltensweise her für einen ersten Eindruck macht.
 
+# Wie ist euer Charakter so drauf?
+
+- Was für Ideale verfolgt euer Charakter?
+- Was mag euer Charakter besonders (nicht)?
+- Was für Fehler/Macken/Eigenheiten hat euer Charakter?
+- Was hat euer Charakter für eine Persönlichkeit? (Muss nicht unbedingt sein, wenn ihr euch nicht ganz wohl fühlt eine andere Rolle als euch selbst zu spielen. Notfalls könnt ihr einfach euch selbst spielen. Schließlich sind wir keine Schauspieler.)
+
 # Optional:
 
 Das hier sind alles Boni, die die Erzählung lebhafter machen.
@@ -76,9 +83,6 @@ Das hier sind alles Boni, die die Erzählung lebhafter machen.
 - Wie verbringt eurer Charakter seine freie Zeit zwischen den Abenteuern?("Hobbies"/Tägliche Rituale)
 - Sammelt er etwas, wonach er stets Ausschau hält?
 - Etc.
-
-- Wie verhält sich eurer Charakter in sozialen Interaktionen? (Muss nicht unbedingt sein, wenn ihr euch nicht ganz wohl fühlt eine andere Rolle als euch selbst zu spielen. Notfalls könnt ihr einfach euch selbst spielen. Schließlich sind wir keine Schauspieler)
-- Was für Macken/Eigenheiten hat euer Charakter?
 
 Im Kampf:
 - Bei Zauberwirkenden Charakteren: Was ist euer Zauberfokus? Wie sehen die Zauber aus, die ihr wirkt?

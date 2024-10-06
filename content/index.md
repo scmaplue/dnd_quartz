@@ -26,5 +26,6 @@ Fahrplan bis zur nächsten Session:
 # Changelog der Seite
 #### 06.10.2024
 - Zusammenfassung Session Zero auf Hauptseite
+- Neuer Abschnitt "Wie ist euer Charakter so drauf?" bei [[Hintergrundgeschichte]]
 - [[Hausregeln zur Charaktererstellung]] ausführlicher ausgearbeitet, insbesondere Regeln/Anmerkungen hinsichtlich der [[Gesinnung im PHB|Gesinnung]] (Alignment) und des [[Hintergrund im PHB|Hintergrunds]] (Backgrounds) im PHB ergänzt
 - [[Kampagnenstart]]
